@@ -129,8 +129,7 @@
       "node"
     ],
     "watchPlugins": [
-      "D:\\www\\projects\\youtube-tutorials\\chat\\node_modules\\jest-watch-typeahead\\filename.js",
-      "D:\\www\\projects\\youtube-tutorials\\chat\\node_modules\\jest-watch-typeahead\\testname.js"
+     
     ]
   },
   "babel": {
