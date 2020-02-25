@@ -1,5 +1,5 @@
 
-# React-Redux-Book-Store
+# React-Redux-Chat-App-With-Backend-Node.js
 
 ➜ [Demo](https://book-store-react-redux.herokuapp.com)
 
